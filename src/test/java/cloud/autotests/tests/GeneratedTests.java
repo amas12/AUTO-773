@@ -20,7 +20,7 @@ public class GeneratedTests extends TestBase {
     @DisplayName("Проверка работы поиска по наименованию оферты ")
     void searchValidationOfferTest() {
 
-        step("Открываем сайт 'https://onlcmarket.ru/'", () -> {
+        step("Открываем сайт onlcmarket", () -> {
             open("https://onlcmarket.ru/");
         });
 
