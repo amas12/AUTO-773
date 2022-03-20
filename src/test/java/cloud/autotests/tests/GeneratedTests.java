@@ -20,13 +20,6 @@ public class GeneratedTests extends TestBase {
             step("// todo: just add selenium action");
         });
 
-        step("Вводим в поиске значение и нажимаем Enter", () -> {
-            step("// todo: just add selenium action");
-        });
-
-        step("Проверяем отображение", () -> {
-            step("// todo: just add selenium action");
-        });
     }
 
     @Test
